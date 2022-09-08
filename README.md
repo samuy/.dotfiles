@@ -4,7 +4,7 @@ Based on: https://github.com/dbolson/dotfiles
 
 ## Installation
 1. Clone repo
-2. `cd` into directory and run `./bin/install`
+2. `cd` into directory and run `./install`
 
 ## Vim plugin installation
 ```
