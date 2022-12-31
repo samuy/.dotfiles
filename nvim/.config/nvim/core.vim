@@ -41,6 +41,7 @@ set tabstop=2
 set termguicolors
 set updatetime=300
 set wildmode=list:longest,list:full
+set relativenumber
 
 inoremap jj <esc>
 
